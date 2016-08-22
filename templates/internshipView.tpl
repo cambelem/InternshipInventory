@@ -653,6 +653,7 @@
     var internshipId = {INTERN_ID};
 </script>
 
+<script type="text/javascript" src="{source_http}mod/intern/node_modules/react-dropzone/dist/index.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react-with-addons.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react-dom.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.28.3/react-bootstrap.js"></script>
